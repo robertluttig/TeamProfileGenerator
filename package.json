@@ -1,0 +1,28 @@
+{
+  "name": "TeamProfileGenerator",
+  "version": "1.0.0",
+  "description": "This app creates a portfolio of team members",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robertluttig/TeamProfileGenerator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/robertluttig/TeamProfileGenerator/issues"
+  },
+  "homepage": "https://github.com/robertluttig/TeamProfileGenerator#readme",
+  "dependencies": {
+    "inquirer": "^7.3.0",
+    "jest": "^26.1.0"
+  }
+}
